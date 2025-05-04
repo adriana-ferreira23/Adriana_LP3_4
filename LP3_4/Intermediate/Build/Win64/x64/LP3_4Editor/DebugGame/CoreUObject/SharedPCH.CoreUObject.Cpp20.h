@@ -1,0 +1,3 @@
+// PCH for Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h
+#include "D:/LP3/AdrianaFerreira_LP3/LP3_4/Intermediate/Build/Win64/x64/LP3_4Editor/DebugGame/CoreUObject/SharedDefinitions.CoreUObject.Cpp20.h"
+#include "Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h"

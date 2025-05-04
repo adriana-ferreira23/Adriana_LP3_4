@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LP3_4.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LP3_4.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LP3_4Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LP3_4">
+      <UniqueIdentifier>{6F2F28D3-849F-367A-BFD1-2CB2B2CCB75A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LP3_4\LP3_4.Build.cs">
+      <Filter>Source\LP3_4</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LP3_4\LP3_4.cpp">
+      <Filter>Source\LP3_4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\LP3_4\LP3_4.h">
+      <Filter>Source\LP3_4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\LP3_4\MyCharacter.cpp">
+      <Filter>Source\LP3_4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\LP3_4\MyCharacter.h">
+      <Filter>Source\LP3_4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\LP3_4\MyPlayerController.cpp">
+      <Filter>Source\LP3_4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\LP3_4\MyPlayerController.h">
+      <Filter>Source\LP3_4</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

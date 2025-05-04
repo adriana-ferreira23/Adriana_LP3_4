@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LP3_4-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\LP3\AdrianaFerreira_LP3\LP3_4\Intermediate\Build\Win64\x64\LP3_4Editor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"D:\LP3\AdrianaFerreira_LP3\LP3_4\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LP3_4\LP3_4.cpp.obj"
+"D:\LP3\AdrianaFerreira_LP3\LP3_4\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LP3_4\PerModuleInline.gen.cpp.obj"
+"D:\LP3\AdrianaFerreira_LP3\LP3_4\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LP3_4\Default.rc2.res"
+/OUT:"D:\LP3\AdrianaFerreira_LP3\LP3_4\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LP3_4\UnrealEditor-LP3_4-Win64-DebugGame.lib"

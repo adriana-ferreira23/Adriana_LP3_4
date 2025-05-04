@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LP3_4",
+			"Path": "..\\Source\\LP3_4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LP3_4Editor",
+			"Path": "..\\Source\\LP3_4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

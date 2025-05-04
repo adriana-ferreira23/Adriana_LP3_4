@@ -1,0 +1,3 @@
+// PCH for Runtime/Slate/Public/SlateSharedPCH.h
+#include "D:/LP3/AdrianaFerreira_LP3/LP3_4/Intermediate/Build/Win64/x64/LP3_4Editor/DebugGame/Slate/SharedDefinitions.Slate.Cpp20.h"
+#include "Runtime/Slate/Public/SlateSharedPCH.h"
