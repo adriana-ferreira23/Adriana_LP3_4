@@ -3149,3 +3149,590 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2025.05.04-21.17.46:910][720]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BB_enemy_Auto6
 [2025.05.04-21.17.46:910][720]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/BB_enemy_Auto6FA3CBEAB4E1C063772D42FB9F3CA8F84.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/Autosaves/Game/BB_enemy_Auto6.uasset'
 [2025.05.04-21.17.46:911][720]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.05.04-21.20.24:754][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.20.24:855][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Enemy] ([2] browsable assets)...
+[2025.05.04-21.20.24:866][688]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Enemy.BP_Enemy]
+[2025.05.04-21.20.24:866][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Enemy]
+[2025.05.04-21.20.24:866][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Enemy" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BP_Enemy.uasset" SILENT=true
+[2025.05.04-21.20.24:870][688]LogSavePackage: Moving output files for package: /Game/BP_Enemy
+[2025.05.04-21.20.24:870][688]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/BP_EnemyDC292F1A4F878E5E47095384F1B61947.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BP_Enemy.uasset'
+[2025.05.04-21.20.24:881][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.095 ms (total: 18.6 sec)
+[2025.05.04-21.20.24:991][688]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.20.24:991][688]LogContentValidation: Enabled validators:
+[2025.05.04-21.20.24:991][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.20.24:991][688]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.20.24:991][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.20.24:991][688]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.20.24:991][688]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.20.24:991][688]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.20.24:991][688]AssetCheck: /Game/BP_Enemy Validating asset
+[2025.05.04-21.20.27:583][823]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.05.04-21.20.40:318][190]LogStreaming: Display: FlushAsyncLoading(628): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.04-21.20.40:420][191]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.05.04-21.20.41:023][235]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.05.04-21.20.41:621][265]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.05.04-21.20.41:621][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.05.04-21.20.41:696][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.05.04-21.20.41:703][265]LogStreaming: Display: FlushAsyncLoading(629): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.04-21.20.41:733][265]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.05.04-21.20.41:755][265]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.05.04-21.20.41:755][265]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.05.04-21.20.41:923][265]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.04-21.20.42:469][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.05.04-21.20.42:922][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.05.04-21.21.07:369][946]LogSlate: Took 0.009586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.05.04-21.22.07:001][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.22.07:112][417]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Manny] ([2] browsable assets)...
+[2025.05.04-21.22.07:126][417]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny]
+[2025.05.04-21.22.07:126][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Manny]
+[2025.05.04-21.22.07:126][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Animations/ABP_Manny" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/Characters/Mannequins/Animations/ABP_Manny.uasset" SILENT=true
+[2025.05.04-21.22.07:175][417]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2025.05.04-21.22.07:176][417]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/ABP_Manny078942034A35EDEA1D9C82BC6668B0D2.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2025.05.04-21.22.07:186][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.350 ms (total: 18.8 sec)
+[2025.05.04-21.22.07:297][417]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.22.07:297][417]LogContentValidation: Enabled validators:
+[2025.05.04-21.22.07:297][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.22.07:297][417]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.22.07:297][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.22.07:297][417]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.22.07:297][417]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.22.07:297][417]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.22.07:297][417]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_Manny Validating asset
+[2025.05.04-21.22.08:394][482]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-21.22.08:394][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-21.22.08:422][482]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-21.22.08:422][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-21.22.08:512][482]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-21.22.08:512][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-21.22.08:579][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.04-21.22.14:849][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.04-21.22.15:264][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.22.15:367][877]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Enemy] ([2] browsable assets)...
+[2025.05.04-21.22.15:376][877]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Enemy.BP_Enemy]
+[2025.05.04-21.22.15:376][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Enemy]
+[2025.05.04-21.22.15:376][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Enemy" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BP_Enemy.uasset" SILENT=true
+[2025.05.04-21.22.15:380][877]LogSavePackage: Moving output files for package: /Game/BP_Enemy
+[2025.05.04-21.22.15:381][877]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/BP_Enemy9D5F192845FD48B08B9D4AA2460DEE91.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BP_Enemy.uasset'
+[2025.05.04-21.22.15:391][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.983 ms (total: 18.9 sec)
+[2025.05.04-21.22.15:531][877]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.22.15:531][877]LogContentValidation: Enabled validators:
+[2025.05.04-21.22.15:531][877]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.22.15:531][877]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.22.15:531][877]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.22.15:531][877]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.22.15:531][877]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.22.15:531][877]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.22.15:531][877]AssetCheck: /Game/BP_Enemy Validating asset
+[2025.05.04-21.22.33:288][504]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8524.910156
+[2025.05.04-21.22.33:419][518]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-21.22.33:419][518]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8525.031250, Update Interval: 332.848297
+[2025.05.04-21.23.37:102][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.04-21.23.37:425][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.23.37:539][131]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Enemy] ([2] browsable assets)...
+[2025.05.04-21.23.37:548][131]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Enemy.BP_Enemy]
+[2025.05.04-21.23.37:548][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Enemy]
+[2025.05.04-21.23.37:548][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Enemy" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BP_Enemy.uasset" SILENT=true
+[2025.05.04-21.23.37:551][131]LogSavePackage: Moving output files for package: /Game/BP_Enemy
+[2025.05.04-21.23.37:552][131]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/BP_EnemyCF1D3BBE45D60A34732C1B879BF5133A.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BP_Enemy.uasset'
+[2025.05.04-21.23.37:562][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.115 ms (total: 19.1 sec)
+[2025.05.04-21.23.37:702][131]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.23.37:702][131]LogContentValidation: Enabled validators:
+[2025.05.04-21.23.37:702][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.23.37:702][131]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.23.37:702][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.23.37:702][131]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.23.37:702][131]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.23.37:702][131]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.23.37:702][131]AssetCheck: /Game/BP_Enemy Validating asset
+[2025.05.04-21.23.39:201][181]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.04-21.23.39:206][181]LogContentBundle: [Level(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.04-21.23.39:207][181]LogWorldPartition: Display: GenerateStreaming for 'Level' started...
+[2025.05.04-21.23.39:209][181]LogWorldPartition: Display: GenerateStreaming for 'Level' took 2.759 ms (total: 34.016 ms)
+[2025.05.04-21.23.39:218][181]LogPlayLevel: [PlayLevel] Compiling ABP_Manny before play...
+[2025.05.04-21.23.39:218][181]LogPlayLevel: [PlayLevel]   Compiling ABP_Quinn as a dependent...
+[2025.05.04-21.23.39:297][181]LogScript: Warning: Attempted to access BP_Enemy_C_5 via property Character, but BP_Enemy_C_5 is not valid (pending kill or garbage)
+	ABP_Manny_C /Engine/Transient.World_5:PersistentLevel.BP_Enemy_C_5.CharacterMesh0.ABP_Manny_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:0311
+[2025.05.04-21.23.39:338][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.05.04-21.23.39:344][181]LogPlayLevel: PlayLevel: Blueprint regeneration took 128 ms (2 blueprints)
+[2025.05.04-21.23.39:344][181]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level
+[2025.05.04-21.23.39:349][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005046s)
+[2025.05.04-21.23.39:349][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level.Level to /Game/Level/UEDPIE_0_Level.Level (0.005089s)
+[2025.05.04-21.23.39:375][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.05.04-21.23.39:376][181]LogChaosDD: Creating Chaos Debug Draw Scene for world Level
+[2025.05.04-21.23.39:379][181]LogWorldPartition: ULevel::OnLevelLoaded(Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.04-21.23.39:379][181]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.04-21.23.39:379][181]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Level/UEDPIE_0_Level.Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.04-21.23.39:379][181]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.04-21.23.39:380][181]LogWorldPartition: Display: WorldPartition initialize took 1.501 ms (total: 609.253 ms)
+[2025.05.04-21.23.39:380][181]LogPlayLevel: PIE: World Init took: (0.003746s)
+[2025.05.04-21.23.39:381][181]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.05.04-21.23.39:381][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.04-21.23.39:381][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.04-21.23.39:381][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.04-21.23.39:381][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.04-21.23.39:381][181]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.04-21.23.39:381][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.04-21.23.39:381][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.04-21.23.39:381][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.04-21.23.39:381][181]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.04-21.23.39:381][181]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.04-21.23.39:381][181]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.04-21.23.39:383][181]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.04-21.23.39:411][181]LogAudioMixer: Display: Using Audio Hardware Device Altifalantes (3- Logitech G735 Gaming Headset)
+[2025.05.04-21.23.39:411][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.04-21.23.39:411][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.04-21.23.39:412][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.04-21.23.39:413][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.05.04-21.23.39:413][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2025.05.04-21.23.39:416][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.05.04-21.23.39:416][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.05.04-21.23.39:416][181]LogInit: FAudioDevice initialized with ID 8.
+[2025.05.04-21.23.39:416][181]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level'.
+[2025.05.04-21.23.39:416][181]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.04-21.23.39:421][181]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.04-21.23.39:429][181]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2025.05.04-22.23.39
+[2025.05.04-21.23.39:431][181]LogWorld: Bringing up level for play took: 0.008841
+[2025.05.04-21.23.39:433][181]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.05.04-21.23.39:442][181]PIE: Server logged in
+[2025.05.04-21.23.39:444][181]PIE: Play in editor total start time 0,237 seconds.
+[2025.05.04-21.23.57:895][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.04-21.23.57:895][886]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level
+[2025.05.04-21.23.57:895][886]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-21.23.57:895][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-21.23.57:895][886]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Level/UEDPIE_0_Level.Level
+[2025.05.04-21.23.57:902][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.04-21.23.57:911][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-21.23.57:934][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.04-21.23.57:935][886]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.04-21.23.57:935][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.04-21.23.57:937][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.04-21.23.57:946][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.04-21.23.58:484][887]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.05.04-21.24.22:738][542]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-21.24.22:738][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-21.24.22:831][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.05.04-21.26.50:333][565]LogEditorTransaction: Undo Create Pin Link
+[2025.05.04-21.26.50:978][576]LogEditorTransaction: Undo Move Node
+[2025.05.04-21.26.51:411][621]LogEditorTransaction: Undo Move Node
+[2025.05.04-21.26.51:747][650]LogEditorTransaction: Undo Move Node
+[2025.05.04-21.26.52:094][681]LogEditorTransaction: Undo Move Node
+[2025.05.04-21.26.52:607][735]LogEditorTransaction: Undo Create Pin Link
+[2025.05.04-21.28.08:520][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.05.04-21.28.08:525][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Level/4/RN/ACM2P501VR4WVMM24SPH20_Auto7
+[2025.05.04-21.28.08:525][793]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/ACM2P501VR4WVMM24SPH20_Auto74B5C84D543E08D8F1FBB8BBC9E29FC6B.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/Autosaves/Game/__ExternalActors__/Level/Level/4/RN/ACM2P501VR4WVMM24SPH20_Auto7.uasset'
+[2025.05.04-21.28.08:526][793]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Level' took 0.035
+[2025.05.04-21.28.08:526][793]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2025.05.04-21.28.08:527][793]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AIController] ([2] browsable assets)...
+[2025.05.04-21.28.08:527][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/AIController]
+[2025.05.04-21.28.08:527][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AIController" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/Autosaves/Game/AIController_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.05.04-21.28.08:537][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AIController_Auto7
+[2025.05.04-21.28.08:537][793]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/AIController_Auto723C6795B46EF8348673C22B2A2AF68F1.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/Autosaves/Game/AIController_Auto7.uasset'
+[2025.05.04-21.28.08:538][793]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BB_enemy] ([1] browsable assets)...
+[2025.05.04-21.28.08:538][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/BB_enemy]
+[2025.05.04-21.28.08:538][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BB_enemy" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/Autosaves/Game/BB_enemy_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.05.04-21.28.08:539][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BB_enemy_Auto7
+[2025.05.04-21.28.08:539][793]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/BB_enemy_Auto7F2053EFB4980A825821CEA9F15F65BCA.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/Autosaves/Game/BB_enemy_Auto7.uasset'
+[2025.05.04-21.28.08:540][793]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.05.04-21.29.04:796][463]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8916.427734
+[2025.05.04-21.29.05:798][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-21.29.05:798][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8917.094727, Update Interval: 325.827820
+[2025.05.04-21.29.22:033][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.29.22:139][427]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AIController] ([2] browsable assets)...
+[2025.05.04-21.29.22:139][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/AIController]
+[2025.05.04-21.29.22:139][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AIController" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset" SILENT=true
+[2025.05.04-21.29.22:149][427]LogSavePackage: Moving output files for package: /Game/AIController
+[2025.05.04-21.29.22:150][427]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/AIController2133B0114162FE4FD078DBBD09596000.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset'
+[2025.05.04-21.29.22:161][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.057 ms (total: 19.2 sec)
+[2025.05.04-21.29.22:274][427]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.29.22:274][427]LogContentValidation: Enabled validators:
+[2025.05.04-21.29.22:274][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.29.22:274][427]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.29.22:274][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.29.22:274][427]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.29.22:274][427]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.29.22:274][427]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.29.22:274][427]AssetCheck: /Game/AIController Validating asset
+[2025.05.04-21.29.22:933][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.05.04-21.29.23:552][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.29.23:655][550]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AIController] ([2] browsable assets)...
+[2025.05.04-21.29.23:656][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/AIController]
+[2025.05.04-21.29.23:656][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AIController" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset" SILENT=true
+[2025.05.04-21.29.23:665][550]LogSavePackage: Moving output files for package: /Game/AIController
+[2025.05.04-21.29.23:666][550]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/AIController629419C246568911BB06E69A0B9EBE98.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset'
+[2025.05.04-21.29.23:676][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.775 ms (total: 19.3 sec)
+[2025.05.04-21.29.23:788][550]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.29.23:788][550]LogContentValidation: Enabled validators:
+[2025.05.04-21.29.23:788][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.29.23:788][550]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.29.23:788][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.29.23:788][550]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.29.23:788][550]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.29.23:788][550]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.29.23:788][550]AssetCheck: /Game/AIController Validating asset
+[2025.05.04-21.29.51:811][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.04-21.29.52:338][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.29.52:449][904]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AIController] ([2] browsable assets)...
+[2025.05.04-21.29.52:449][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/AIController]
+[2025.05.04-21.29.52:449][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AIController" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset" SILENT=true
+[2025.05.04-21.29.52:459][904]LogSavePackage: Moving output files for package: /Game/AIController
+[2025.05.04-21.29.52:460][904]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/AIControllerFCE6B5584B4668465742D1A31D876944.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset'
+[2025.05.04-21.29.52:474][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.726 ms (total: 19.4 sec)
+[2025.05.04-21.29.52:595][904]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.29.52:595][904]LogContentValidation: Enabled validators:
+[2025.05.04-21.29.52:596][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.29.52:596][904]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.29.52:596][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.29.52:596][904]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.29.52:596][904]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.29.52:596][904]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.29.52:596][904]AssetCheck: /Game/AIController Validating asset
+[2025.05.04-21.30.25:041][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.30.25:153][893]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AIController] ([2] browsable assets)...
+[2025.05.04-21.30.25:153][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/AIController]
+[2025.05.04-21.30.25:153][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AIController" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset" SILENT=true
+[2025.05.04-21.30.25:163][893]LogSavePackage: Moving output files for package: /Game/AIController
+[2025.05.04-21.30.25:163][893]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/AIController02A741CA4CD94669760C7AA38D88C5AA.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset'
+[2025.05.04-21.30.25:175][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.749 ms (total: 19.6 sec)
+[2025.05.04-21.30.25:286][893]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.30.25:286][893]LogContentValidation: Enabled validators:
+[2025.05.04-21.30.25:286][893]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.30.25:286][893]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.30.25:286][893]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.30.25:286][893]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.30.25:286][893]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.30.25:286][893]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.30.25:286][893]AssetCheck: /Game/AIController Validating asset
+[2025.05.04-21.30.30:475][198]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/BB_enemy.BB_enemy
+[2025.05.04-21.31.35:960][135]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.05.04-21.31.36:043][136]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.05.04-21.31.36:230][142]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.05.04-21.31.44:547][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.31.44:678][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BB_enemy] ([1] browsable assets)...
+[2025.05.04-21.31.44:678][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/BB_enemy]
+[2025.05.04-21.31.44:678][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BB_enemy" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BB_enemy.uasset" SILENT=true
+[2025.05.04-21.31.44:679][826]LogSavePackage: Moving output files for package: /Game/BB_enemy
+[2025.05.04-21.31.44:679][826]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/BB_enemyF7BCCDE9418D2356C59AF69BF06BFB08.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BB_enemy.uasset'
+[2025.05.04-21.31.44:688][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.523 ms (total: 19.7 sec)
+[2025.05.04-21.31.44:814][826]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.31.44:814][826]LogContentValidation: Enabled validators:
+[2025.05.04-21.31.44:814][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.31.44:814][826]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.31.44:814][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.31.44:814][826]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.31.44:814][826]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.31.44:814][826]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.31.44:814][826]AssetCheck: /Game/BB_enemy Validating asset
+[2025.05.04-21.31.52:994][165]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/BT_Enemy.BT_Enemy
+[2025.05.04-21.32.53:493][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.32.53:593][494]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BT_Enemy] ([1] browsable assets)...
+[2025.05.04-21.32.53:593][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/BT_Enemy]
+[2025.05.04-21.32.53:593][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BT_Enemy" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BT_Enemy.uasset" SILENT=true
+[2025.05.04-21.32.53:595][494]LogSavePackage: Moving output files for package: /Game/BT_Enemy
+[2025.05.04-21.32.53:596][494]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/BT_Enemy4E40307F4383532D4767188D0D8F990A.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BT_Enemy.uasset'
+[2025.05.04-21.32.53:609][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.518 ms (total: 19.8 sec)
+[2025.05.04-21.32.53:731][494]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.32.53:731][494]LogContentValidation: Enabled validators:
+[2025.05.04-21.32.53:731][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.32.53:731][494]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.32.53:731][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.32.53:731][494]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.32.53:731][494]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.32.53:731][494]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.32.53:731][494]AssetCheck: /Game/BT_Enemy Validating asset
+[2025.05.04-21.33.31:952][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.33.32:054][721]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BT_Enemy] ([1] browsable assets)...
+[2025.05.04-21.33.32:054][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/BT_Enemy]
+[2025.05.04-21.33.32:054][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BT_Enemy" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BT_Enemy.uasset" SILENT=true
+[2025.05.04-21.33.32:056][721]LogSavePackage: Moving output files for package: /Game/BT_Enemy
+[2025.05.04-21.33.32:057][721]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/BT_Enemy28F8ECE942D4A0A3199E1B897C2EFFC3.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BT_Enemy.uasset'
+[2025.05.04-21.33.32:067][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.065 ms (total: 19.9 sec)
+[2025.05.04-21.33.32:174][721]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.33.32:174][721]LogContentValidation: Enabled validators:
+[2025.05.04-21.33.32:174][721]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.33.32:174][721]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.33.32:174][721]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.33.32:174][721]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.33.32:174][721]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.33.32:174][721]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.33.32:174][721]AssetCheck: /Game/BT_Enemy Validating asset
+[2025.05.04-21.34.15:205][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.34.15:311][ 78]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BT_Enemy] ([1] browsable assets)...
+[2025.05.04-21.34.15:311][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/BT_Enemy]
+[2025.05.04-21.34.15:311][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BT_Enemy" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BT_Enemy.uasset" SILENT=true
+[2025.05.04-21.34.15:313][ 78]LogSavePackage: Moving output files for package: /Game/BT_Enemy
+[2025.05.04-21.34.15:314][ 78]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/BT_EnemyD090B2154BA413B69905A09D8EBD6CEA.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/BT_Enemy.uasset'
+[2025.05.04-21.34.15:326][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.180 ms (total: 20.1 sec)
+[2025.05.04-21.34.15:456][ 78]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.34.15:456][ 78]LogContentValidation: Enabled validators:
+[2025.05.04-21.34.15:456][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.34.15:456][ 78]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.34.15:456][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.34.15:456][ 78]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.34.15:456][ 78]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.34.15:456][ 78]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.34.15:456][ 78]AssetCheck: /Game/BT_Enemy Validating asset
+[2025.05.04-21.34.37:203][287]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.04-21.34.37:208][287]LogContentBundle: [Level(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.04-21.34.37:208][287]LogWorldPartition: Display: GenerateStreaming for 'Level' started...
+[2025.05.04-21.34.37:211][287]LogWorldPartition: Display: GenerateStreaming for 'Level' took 2.590 ms (total: 36.607 ms)
+[2025.05.04-21.34.37:219][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.04-21.34.37:219][287]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level
+[2025.05.04-21.34.37:223][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005265s)
+[2025.05.04-21.34.37:223][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level.Level to /Game/Level/UEDPIE_0_Level.Level (0.005304s)
+[2025.05.04-21.34.37:309][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.05.04-21.34.37:312][287]LogChaosDD: Creating Chaos Debug Draw Scene for world Level
+[2025.05.04-21.34.37:314][287]LogWorldPartition: ULevel::OnLevelLoaded(Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.04-21.34.37:314][287]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.04-21.34.37:314][287]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Level/UEDPIE_0_Level.Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.04-21.34.37:314][287]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.04-21.34.37:316][287]LogWorldPartition: Display: WorldPartition initialize took 1.552 ms (total: 610.805 ms)
+[2025.05.04-21.34.37:316][287]LogPlayLevel: PIE: World Init took: (0.003382s)
+[2025.05.04-21.34.37:317][287]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.05.04-21.34.37:317][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.04-21.34.37:317][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.04-21.34.37:317][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.04-21.34.37:317][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.04-21.34.37:317][287]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.04-21.34.37:317][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.04-21.34.37:317][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.04-21.34.37:317][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.04-21.34.37:317][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.04-21.34.37:317][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.04-21.34.37:317][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.04-21.34.37:320][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.04-21.34.37:345][287]LogAudioMixer: Display: Using Audio Hardware Device Altifalantes (3- Logitech G735 Gaming Headset)
+[2025.05.04-21.34.37:345][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.04-21.34.37:345][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.04-21.34.37:345][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.04-21.34.37:346][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.05.04-21.34.37:346][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=9
+[2025.05.04-21.34.37:349][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.05.04-21.34.37:349][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.05.04-21.34.37:349][287]LogInit: FAudioDevice initialized with ID 9.
+[2025.05.04-21.34.37:349][287]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level'.
+[2025.05.04-21.34.37:349][287]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.04-21.34.37:352][287]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.04-21.34.37:358][287]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2025.05.04-22.34.37
+[2025.05.04-21.34.37:359][287]LogWorld: Bringing up level for play took: 0.006910
+[2025.05.04-21.34.37:362][287]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.05.04-21.34.37:369][287]PIE: Server logged in
+[2025.05.04-21.34.37:370][287]PIE: Play in editor total start time 0,162 seconds.
+[2025.05.04-21.35.14:684][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.04-21.35.14:684][878]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level
+[2025.05.04-21.35.14:684][878]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-21.35.14:685][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-21.35.14:685][878]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Level/UEDPIE_0_Level.Level
+[2025.05.04-21.35.14:688][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.04-21.35.14:698][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-21.35.14:722][878]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.04-21.35.14:723][878]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.04-21.35.14:723][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.04-21.35.14:725][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.04-21.35.14:731][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.04-21.35.14:734][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.04-21.35.14:768][879]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.05.04-21.35.28:953][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9300.645508
+[2025.05.04-21.35.29:106][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-21.35.29:106][123]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9300.789062, Update Interval: 313.610657
+[2025.05.04-21.35.49:941][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.35.50:048][100]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AIController] ([2] browsable assets)...
+[2025.05.04-21.35.50:048][100]OBJ SavePackage: Finished generating thumbnails for package [/Game/AIController]
+[2025.05.04-21.35.50:048][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AIController" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset" SILENT=true
+[2025.05.04-21.35.50:058][100]LogSavePackage: Moving output files for package: /Game/AIController
+[2025.05.04-21.35.50:059][100]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/AIController6046E2B5480EF1CE651CAC998C9D2BB3.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset'
+[2025.05.04-21.35.50:069][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.378 ms (total: 20.2 sec)
+[2025.05.04-21.35.50:184][100]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.35.50:184][100]LogContentValidation: Enabled validators:
+[2025.05.04-21.35.50:184][100]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.35.50:184][100]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.35.50:184][100]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.35.50:184][100]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.35.50:184][100]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.35.50:184][100]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.35.50:184][100]AssetCheck: /Game/AIController Validating asset
+[2025.05.04-21.36.27:526][313]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/AIController.AIController without an associated node. The blueprint breakpoint has been removed
+[2025.05.04-21.36.27:526][313]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/AIController.AIController without an associated node. The blueprint breakpoint has been removed
+[2025.05.04-21.36.47:605][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.36.47:711][916]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AIController] ([2] browsable assets)...
+[2025.05.04-21.36.47:711][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/AIController]
+[2025.05.04-21.36.47:711][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AIController" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset" SILENT=true
+[2025.05.04-21.36.47:720][916]LogSavePackage: Moving output files for package: /Game/AIController
+[2025.05.04-21.36.47:721][916]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/AIController0D487F0D4C00823976D1BBA666B1496B.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset'
+[2025.05.04-21.36.47:731][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.953 ms (total: 20.3 sec)
+[2025.05.04-21.36.47:856][916]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.36.47:856][916]LogContentValidation: Enabled validators:
+[2025.05.04-21.36.47:856][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.36.47:856][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.36.47:856][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.36.47:856][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.36.47:856][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.36.47:856][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.36.47:856][916]AssetCheck: /Game/AIController Validating asset
+[2025.05.04-21.36.48:848][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.04-21.36.49:216][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.36.49:321][ 50]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AIController] ([2] browsable assets)...
+[2025.05.04-21.36.49:321][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/AIController]
+[2025.05.04-21.36.49:321][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AIController" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset" SILENT=true
+[2025.05.04-21.36.49:331][ 50]LogSavePackage: Moving output files for package: /Game/AIController
+[2025.05.04-21.36.49:331][ 50]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/AIControllerCF3DE73D40A6121E03DD3293194BDC51.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset'
+[2025.05.04-21.36.49:342][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.381 ms (total: 20.4 sec)
+[2025.05.04-21.36.49:456][ 50]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.36.49:456][ 50]LogContentValidation: Enabled validators:
+[2025.05.04-21.36.49:456][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.36.49:456][ 50]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.36.49:456][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.36.49:456][ 50]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.36.49:456][ 50]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.36.49:457][ 50]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.36.49:457][ 50]AssetCheck: /Game/AIController Validating asset
+[2025.05.04-21.36.50:709][ 99]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.04-21.36.50:714][ 99]LogContentBundle: [Level(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.04-21.36.50:714][ 99]LogWorldPartition: Display: GenerateStreaming for 'Level' started...
+[2025.05.04-21.36.50:716][ 99]LogWorldPartition: Display: GenerateStreaming for 'Level' took 2.348 ms (total: 38.955 ms)
+[2025.05.04-21.36.50:725][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.04-21.36.50:725][ 99]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level
+[2025.05.04-21.36.50:728][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005214s)
+[2025.05.04-21.36.50:728][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level.Level to /Game/Level/UEDPIE_0_Level.Level (0.005254s)
+[2025.05.04-21.36.50:749][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.05.04-21.36.50:753][ 99]LogChaosDD: Creating Chaos Debug Draw Scene for world Level
+[2025.05.04-21.36.50:754][ 99]LogWorldPartition: ULevel::OnLevelLoaded(Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.04-21.36.50:754][ 99]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.04-21.36.50:754][ 99]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Level/UEDPIE_0_Level.Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.04-21.36.50:754][ 99]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.04-21.36.50:756][ 99]LogWorldPartition: Display: WorldPartition initialize took 1.574 ms (total: 612.380 ms)
+[2025.05.04-21.36.50:756][ 99]LogPlayLevel: PIE: World Init took: (0.003501s)
+[2025.05.04-21.36.50:757][ 99]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.05.04-21.36.50:757][ 99]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.04-21.36.50:757][ 99]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.04-21.36.50:757][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.04-21.36.50:757][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.04-21.36.50:757][ 99]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.04-21.36.50:757][ 99]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.04-21.36.50:757][ 99]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.04-21.36.50:757][ 99]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.04-21.36.50:757][ 99]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.04-21.36.50:757][ 99]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.04-21.36.50:758][ 99]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.04-21.36.50:760][ 99]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.04-21.36.50:786][ 99]LogAudioMixer: Display: Using Audio Hardware Device Altifalantes (3- Logitech G735 Gaming Headset)
+[2025.05.04-21.36.50:786][ 99]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.04-21.36.50:786][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.04-21.36.50:786][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.04-21.36.50:787][ 99]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.05.04-21.36.50:787][ 99]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=10
+[2025.05.04-21.36.50:790][ 99]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.05.04-21.36.50:790][ 99]LogInit: FAudioDevice initialized with ID 10.
+[2025.05.04-21.36.50:790][ 99]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.05.04-21.36.50:790][ 99]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level'.
+[2025.05.04-21.36.50:790][ 99]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.05.04-21.36.50:793][ 99]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.04-21.36.50:800][ 99]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2025.05.04-22.36.50
+[2025.05.04-21.36.50:800][ 99]LogWorld: Bringing up level for play took: 0.007246
+[2025.05.04-21.36.50:803][ 99]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.05.04-21.36.50:810][ 99]PIE: Server logged in
+[2025.05.04-21.36.50:811][ 99]PIE: Play in editor total start time 0,097 seconds.
+[2025.05.04-21.37.19:663][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.04-21.37.19:663][958]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level
+[2025.05.04-21.37.19:663][958]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-21.37.19:664][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-21.37.19:664][958]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Level/UEDPIE_0_Level.Level
+[2025.05.04-21.37.19:679][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.04-21.37.19:688][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-21.37.19:710][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.04-21.37.19:712][958]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.05.04-21.37.19:712][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.05.04-21.37.19:714][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.05.04-21.37.19:723][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.05.04-21.37.19:999][959]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.05.04-21.37.43:357][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.37.43:568][ 55]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Level/4/RN/ACM2P501VR4WVMM24SPH20
+[2025.05.04-21.37.43:568][ 55]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/ACM2P501VR4WVMM24SPH20909689524655D33E8F9E00817706E208.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/__ExternalActors__/Level/Level/4/RN/ACM2P501VR4WVMM24SPH20.uasset'
+[2025.05.04-21.37.43:583][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.354 ms (total: 20.7 sec)
+[2025.05.04-21.37.43:695][ 55]LogContentValidation: Display: Starting to validate 3 assets
+[2025.05.04-21.37.43:695][ 55]LogContentValidation: Enabled validators:
+[2025.05.04-21.37.43:695][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.37.43:695][ 55]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.37.43:695][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.37.43:695][ 55]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.37.43:695][ 55]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.37.43:695][ 55]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.37.43:696][ 55]AssetCheck: /Game/Level/Level Validating asset
+[2025.05.04-21.37.55:184][882]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Enemy.BP_Enemy
+[2025.05.04-21.37.55:184][882]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.05.04-21.39.19:013][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-21.39.19:128][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AIController] ([2] browsable assets)...
+[2025.05.04-21.39.19:128][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/AIController]
+[2025.05.04-21.39.19:128][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AIController" FILE="../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset" SILENT=true
+[2025.05.04-21.39.19:138][347]LogSavePackage: Moving output files for package: /Game/AIController
+[2025.05.04-21.39.19:138][347]LogSavePackage: Moving '../../../../LLLP3/Adriana_LP3_4/LP3_3/Saved/AIControllerB87958CC45A4B6807171E7ADB882973A.tmp' to '../../../../LLLP3/Adriana_LP3_4/LP3_3/Content/AIController.uasset'
+[2025.05.04-21.39.19:149][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.403 ms (total: 20.8 sec)
+[2025.05.04-21.39.19:291][347]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.04-21.39.19:291][347]LogContentValidation: Enabled validators:
+[2025.05.04-21.39.19:291][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.04-21.39.19:291][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.04-21.39.19:291][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.04-21.39.19:291][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.04-21.39.19:291][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.04-21.39.19:291][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.04-21.39.19:291][347]AssetCheck: /Game/AIController Validating asset
+[2025.05.04-21.39.20:035][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.05.04-21.39.22:547][586]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.04-21.39.22:552][586]LogContentBundle: [Level(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.04-21.39.22:552][586]LogWorldPartition: Display: GenerateStreaming for 'Level' started...
+[2025.05.04-21.39.22:554][586]LogWorldPartition: Display: GenerateStreaming for 'Level' took 2.230 ms (total: 41.186 ms)
+[2025.05.04-21.39.22:561][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.04-21.39.22:561][586]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level
+[2025.05.04-21.39.22:566][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004657s)
+[2025.05.04-21.39.22:566][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level.Level to /Game/Level/UEDPIE_0_Level.Level (0.004695s)
+[2025.05.04-21.39.22:593][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.05.04-21.39.22:596][586]LogChaosDD: Creating Chaos Debug Draw Scene for world Level
+[2025.05.04-21.39.22:598][586]LogWorldPartition: ULevel::OnLevelLoaded(Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.04-21.39.22:598][586]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.04-21.39.22:598][586]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Level/UEDPIE_0_Level.Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.04-21.39.22:598][586]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.04-21.39.22:599][586]LogWorldPartition: Display: WorldPartition initialize took 1.566 ms (total: 613.946 ms)
+[2025.05.04-21.39.22:599][586]LogPlayLevel: PIE: World Init took: (0.003843s)
+[2025.05.04-21.39.22:600][586]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.05.04-21.39.22:600][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.04-21.39.22:600][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.04-21.39.22:600][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.04-21.39.22:600][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.04-21.39.22:600][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.04-21.39.22:600][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.04-21.39.22:600][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.04-21.39.22:600][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.04-21.39.22:600][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.04-21.39.22:600][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.04-21.39.22:600][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.04-21.39.22:603][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.04-21.39.22:629][586]LogAudioMixer: Display: Using Audio Hardware Device Altifalantes (3- Logitech G735 Gaming Headset)
+[2025.05.04-21.39.22:630][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.04-21.39.22:630][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.04-21.39.22:630][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.04-21.39.22:631][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.05.04-21.39.22:631][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=11
+[2025.05.04-21.39.22:633][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.05.04-21.39.22:633][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.05.04-21.39.22:633][586]LogInit: FAudioDevice initialized with ID 11.
+[2025.05.04-21.39.22:633][586]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level'.
+[2025.05.04-21.39.22:633][586]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.05.04-21.39.22:636][586]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.04-21.39.22:642][586]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2025.05.04-22.39.22
+[2025.05.04-21.39.22:643][586]LogWorld: Bringing up level for play took: 0.006737
+[2025.05.04-21.39.22:646][586]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.05.04-21.39.22:652][586]PIE: Server logged in
+[2025.05.04-21.39.22:653][586]PIE: Play in editor total start time 0,101 seconds.
+[2025.05.04-21.39.40:603][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.04-21.39.40:604][355]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level
+[2025.05.04-21.39.40:604][355]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-21.39.40:604][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-21.39.40:604][355]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Level/UEDPIE_0_Level.Level
+[2025.05.04-21.39.40:610][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.04-21.39.40:618][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-21.39.40:640][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.04-21.39.40:641][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.05.04-21.39.40:641][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.04-21.39.40:643][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.04-21.39.40:651][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.05.04-21.39.41:079][356]LogPlayLevel: Display: Destroying online subsystem :Context_32
