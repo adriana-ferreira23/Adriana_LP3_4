@@ -104,7 +104,9 @@
 				"D:/LLLP3/Adriana_LP3_4/LP3_3/Content/Tasks/BTTask_MoveLocation.uasset",
 				"D:/LLLP3/Adriana_LP3_4/LP3_3/Content/__ExternalActors__/Level/Level/4/RN/ACM2P501VR4WVMM24SPH20.uasset",
 				"D:/LLLP3/Adriana_LP3_4/LP3_3/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
-				"D:/LLLP3/Adriana_LP3_4/LP3_3/Content/BB_enemy.uasset"
+				"D:/LLLP3/Adriana_LP3_4/LP3_3/Content/BB_enemy.uasset",
+				"D:/LLLP3/Adriana_LP3_4/LP3_3/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/LLLP3/Adriana_LP3_4/LP3_3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
