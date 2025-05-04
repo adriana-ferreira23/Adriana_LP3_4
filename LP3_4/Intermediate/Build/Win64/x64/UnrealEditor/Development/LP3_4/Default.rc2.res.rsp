@@ -84,5 +84,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME=LP3_4
 /DPROJECT_PRODUCT_IDENTIFIER=LP3_4
-/fo "D:\LLLP3\LP3_4\LP3_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\LP3_4\Default.rc2.res"
+/fo "D:\LLLP3\Adriana_LP3_4\LP3_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\LP3_4\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

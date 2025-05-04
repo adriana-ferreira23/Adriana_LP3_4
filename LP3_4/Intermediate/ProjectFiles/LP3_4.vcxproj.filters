@@ -30,6 +30,12 @@
     <Filter Include="Source\LP3_4">
       <UniqueIdentifier>{6F2F28D3-849F-367A-BFD1-2CB2B2CCB75A}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\LP3_4\InteractableInterface.cpp">
+      <Filter>Source\LP3_4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\LP3_4\InteractableInterface.h">
+      <Filter>Source\LP3_4</Filter>
+    </ClCompile>
     <None Include="..\..\Source\LP3_4\LP3_4.Build.cs">
       <Filter>Source\LP3_4</Filter>
     </None>

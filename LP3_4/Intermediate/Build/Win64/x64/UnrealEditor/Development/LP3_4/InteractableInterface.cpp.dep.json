@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\lllp3\\adriana_lp3_4\\lp3_4\\source\\lp3_4\\interactableinterface.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\lllp3\\adriana_lp3_4\\lp3_4\\intermediate\\build\\win64\\x64\\lp3_4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\lllp3\\adriana_lp3_4\\lp3_4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lp3_4\\definitions.lp3_4.h",
+            "d:\\lllp3\\adriana_lp3_4\\lp3_4\\source\\lp3_4\\interactableinterface.h",
+            "d:\\lllp3\\adriana_lp3_4\\lp3_4\\intermediate\\build\\win64\\unrealeditor\\inc\\lp3_4\\uht\\interactableinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

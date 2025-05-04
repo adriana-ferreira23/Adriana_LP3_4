@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\LLLP3\\LP3_4\\LP3_4\\Source\\LP3_4\\LP3_4.Build.cs",
-		"D:\\LLLP3\\LP3_4\\LP3_4\\Source\\LP3_4.Target.cs",
-		"D:\\LLLP3\\LP3_4\\LP3_4\\Source\\LP3_4Editor.Target.cs"
+		"D:\\LLLP3\\Adriana_LP3_4\\LP3_4\\Source\\LP3_4\\LP3_4.Build.cs",
+		"D:\\LLLP3\\Adriana_LP3_4\\LP3_4\\Source\\LP3_4.Target.cs",
+		"D:\\LLLP3\\Adriana_LP3_4\\LP3_4\\Source\\LP3_4Editor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }
